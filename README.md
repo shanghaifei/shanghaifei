@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shanghaifei
-- 👀 I’m interested in read book，play basketball
+- 👀 I’m interested in read book, play basketball
 - 🌱 I’m currently learning hotspot source code
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
